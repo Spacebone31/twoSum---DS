@@ -1,5 +1,3 @@
-package twoSum;
-
 public class twoSum {
     public static int[] twoSum(int[] nums, int target) {
         int minDiff = Integer.MAX_VALUE;
